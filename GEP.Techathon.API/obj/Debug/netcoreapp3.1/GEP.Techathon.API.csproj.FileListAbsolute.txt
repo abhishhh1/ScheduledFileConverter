@@ -1,0 +1,5 @@
+C:\Users\vbspk\source\repos\GEP_Techathon\GEP.Techathon.API\obj\Debug\netcoreapp3.1\GEP.Techathon.API.csprojAssemblyReference.cache
+C:\Users\vbspk\source\repos\GEP_Techathon\GEP.Techathon.API\obj\Debug\netcoreapp3.1\GEP.Techathon.API.AssemblyInfoInputs.cache
+C:\Users\vbspk\source\repos\GEP_Techathon\GEP.Techathon.API\obj\Debug\netcoreapp3.1\GEP.Techathon.API.AssemblyInfo.cs
+C:\Users\vbspk\source\repos\GEP_Techathon\GEP.Techathon.API\obj\Debug\netcoreapp3.1\GEP.Techathon.API.csproj.CoreCompileInputs.cache
+C:\Users\vbspk\source\repos\GEP_Techathon\GEP.Techathon.API\obj\Debug\netcoreapp3.1\GEP.Techathon.API.MvcApplicationPartsAssemblyInfo.cache
